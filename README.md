@@ -62,7 +62,7 @@ Create a file named:
 Add your Gemini API key:
 
 ```env
-GEMINI_API_KEY=Ab8RN6KilWd_nXhPOVq8LePWQ5xJiy93tmqOsLA_1FvD5zlftQ
+GEMINI_API_KEY=Ab8RN6K***********************************
 ```
 
 You can obtain an API key from:
